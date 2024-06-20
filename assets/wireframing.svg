@@ -1,0 +1,27 @@
+<svg width="150" height="114" viewBox="0 0 150 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M84.5591 87.8677L96.7142 76.4072C97.1101 76.0339 97.7318 76.0457 98.1133 76.4338L118.75 97.4265" stroke="#36C0CD" stroke-width="4"/>
+<ellipse cx="9.92656" cy="8.45585" rx="2.57353" ry="2.57353" fill="#323232"/>
+<ellipse cx="18.7503" cy="8.45585" rx="2.57353" ry="2.57353" fill="#323232"/>
+<circle cx="16.4559" cy="32.4559" r="7.5" stroke="#323232" stroke-width="1.91177"/>
+<ellipse cx="27.5735" cy="8.45585" rx="2.57353" ry="2.57353" fill="#323232"/>
+<circle cx="80.5148" cy="66.5441" r="4.77941" fill="#F6A436"/>
+<rect x="7.35303" y="47.7939" width="20.5882" height="4.41176" fill="#BF5A60"/>
+<rect x="7.35303" y="56.6177" width="25.7353" height="4.41176" fill="#BF5A60"/>
+<rect x="7.35303" y="64.7061" width="22.0588" height="4.41176" fill="#BF5A60"/>
+<rect x="7.35303" y="72.7944" width="17.6471" height="4.41176" fill="#BF5A60"/>
+<rect x="7.35303" y="80.8823" width="22.0588" height="4.41176" fill="#BF5A60"/>
+<rect x="54.4121" y="24.2646" width="57.3529" height="4.41176" fill="#BF5A60"/>
+<rect x="54.4121" y="30.8823" width="69.8529" height="4.41176" fill="#BF5A60"/>
+<rect x="54.4121" y="37.5" width="44.1176" height="4.41176" fill="#BF5A60"/>
+<path d="M68.3823 97.059L79.963 84.5994C80.3543 84.1784 81.0191 84.1731 81.417 84.5879L93.3823 97.059" stroke="#36C0CD" stroke-width="4"/>
+<mask id="path-16-inside-1_1279_75" fill="white">
+<rect x="54.4121" y="49.2646" width="77.2059" height="50" rx="3"/>
+</mask>
+<rect x="54.4121" y="49.2646" width="77.2059" height="50" rx="3" stroke="#323232" stroke-width="10" mask="url(#path-16-inside-1_1279_75)"/>
+<rect x="3.67627" y="13.2354" width="142.647" height="4.41176" fill="#323232"/>
+<rect x="35.2944" y="17.647" width="4.41176" height="91.9118" fill="#323232"/>
+<mask id="path-19-inside-2_1279_75" fill="white">
+<rect width="150" height="113.235" rx="3"/>
+</mask>
+<rect width="150" height="113.235" rx="3" stroke="#323232" stroke-width="10" mask="url(#path-19-inside-2_1279_75)"/>
+</svg>
